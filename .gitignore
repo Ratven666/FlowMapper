@@ -1,2 +1,12 @@
 
 .idea/
+
+src/
+
+.DS_Store
+
+app/image_code/__pycache__/
+
+app/__pycache__/
+
+app/image_code/plotters/__pycache__/
