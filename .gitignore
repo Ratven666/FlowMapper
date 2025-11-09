@@ -10,3 +10,9 @@ app/image_code/__pycache__/
 app/__pycache__/
 
 app/image_code/plotters/__pycache__/
+
+app/image_code/utils/__pycache__/
+
+*.geojson
+
+test.py
