@@ -224,7 +224,7 @@ class ImageSplitter:
 if __name__ == "__main__":
     from app.image_code.GeoTiffImage import GeoTiffImage
 
-    img = GeoTiffImage(file_path="../../src/base_img.tif")
+    img = GeoTiffImage(file_path="../../../src/base_img.tif")
     img.print_info()
 
     print("\n--- Using ImageSplitter ---")
